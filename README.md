@@ -63,7 +63,7 @@ Hi there! I'm Vishnu Dubey, a dedicated Full Stack Developer with a strong passi
 
 ### Badges
 
-[![An image of @vishnuzdubey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishnuzdubey)](https://holopin.io/@vishnuzdubey)
+[![An image of @ag21o9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ag21o9)](https://holopin.io/@ag21o9)
 
 ## My GitHub Stats
 
