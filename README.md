@@ -8,7 +8,7 @@ Hi there! I'm Vishnu Dubey, a dedicated Full Stack Developer with a strong passi
 
 * 🌍  I'm based in Gorakhpur, India
 * ✉  You can contact me at [vishnuzdubey25@gmail.com](mailto:vishnuzdubey25@gmail.com)
-* 🚀  I'm currently working on [Eduflex](http://www.linkedin.com/in/vishnu-dubey-2423b0254/)
+* 🚀  I'm currently working on [Elite Software Solution](theelitess.com)
 * 🧠  I'm learning React JS Framework
 * 🤝  I'm open to collaborating on Frontend Projects
 * ⚡  I am a DSA Expert in Java
